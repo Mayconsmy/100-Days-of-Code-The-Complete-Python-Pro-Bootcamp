@@ -1,3 +1,4 @@
+#I created a simple calculator to calculate the price of food in a restaurant with techniques learned in the classroom.
 print("Welcome to the tip calculator!")
 bill = float(input("What was the total bill? $"))
 tip = int(input("What percentage tip would you like to give? 10 12 15 "))
