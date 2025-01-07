@@ -1,3 +1,4 @@
+#I created a simple game of stone, paper and scissors with list techniques and randomness in python.
 import random
 
 rock = '''
