@@ -1,4 +1,4 @@
-from art import logo
+from art_9 import logo
 print(logo)
 
 
