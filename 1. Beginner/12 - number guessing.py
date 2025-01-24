@@ -16,7 +16,7 @@ def check_answer(user_guess, actual_answer, turns):
         print("Too low.")
         return turns - 1
     else:
-        print(f"You got it! The answer was {actual_answer}")
+        print(f"You got it! The answer was: {actual_answer}")
 
 
 # Function to set difficulty
